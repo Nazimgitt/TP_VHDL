@@ -1,0 +1,8 @@
+
+**** Build of configuration Nios II for project test_gst_bouton ****
+
+make all 
+Info: Building ../test_gst_bouton_bsp/
+make --no-print-directory -C ../test_gst_bouton_bsp/
+[BSP build complete]
+[test_gst_bouton build complete]
